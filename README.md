@@ -43,6 +43,6 @@ In case of any questions or requests, please contact us at:
 
 [PLAi](https://aiplayground.github.io/PLAiSite/)
 
-[Email](support@plaiground.cz)
+[Contact Us](mailto:support@plaiground.cz)
 
 
