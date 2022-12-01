@@ -41,8 +41,8 @@ Any claim related toour Website shall be governed by the laws ofINSERT STATE OF 
 ## Contact
 In case of any questions or requests, please contact us at:
 
-PLAi
+[PLAi](https://aiplayground.github.io/PLAiSite/)
 
-support@plaiground.cz
+[Email](support@plaiground.cz)
 
 
