@@ -1,8 +1,6 @@
-# dasdas
-ad
-sa
-d
-as
-das
-d
-as
+# PLAi mobile application
+
+![image](img.png)
+
+- [ToS](tos.md)
+- [Privacy policy]()
