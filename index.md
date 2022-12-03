@@ -3,4 +3,4 @@
 ![image](img.png)
 
 - [ToS](tos.md)
-- [Privacy policy]()
+- [Privacy policy](policy.md)
