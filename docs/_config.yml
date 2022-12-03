@@ -1,4 +1,5 @@
 theme: jekyll-theme-primer
 
+name: PLAi
 title: PLAi
 description: Mobile application, that provides stable diffusion APIs.
