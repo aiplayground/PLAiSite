@@ -1,2 +1,2 @@
-- [ToS](tos.md)
+- [Terms & Conditions](terms.md)
 - [Privacy policy](policy.md)
