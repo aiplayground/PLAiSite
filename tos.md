@@ -1,48 +1,36 @@
-# Terms of Service
+**Terms & Conditions**
 
-Last updated on 12/01/2022
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Jan Hošťálek.
 
-## Agreement to Terms
+Jan Hošťálek is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-By viewing or using this Website, which can be accessed at [aiplayground](https://aiplayground.github.io/PLAiSite/) or through our mobile application PLAi, 
-you are agreeing to be bound by all these Website’s Terms of Use and agree with any applicable local laws. 
-If you disagree with any of these terms, you are prohibited from accessing this Website or using the Service. 
-All materials in this Website are protected by trade mark law and copyright.
+The PLAi app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the PLAi app won’t work properly or at all.
 
-## Privacy policy
+The app does use third-party services that declare their Terms and Conditions.
 
-We advise you to read our privacy [policy](https://www.privacypolicygenerator.info/live.php?token=wHiILkvuM90mBV1ggCUMAiNfI5MnHtbd) 
-regarding our user data collection. It will help you better understand our practices.
+Link to Terms and Conditions of third-party service providers used by the app
 
-## Use License
+*   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-Permission is granted to temporarily download one copy of the materials on ourWebsite for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+You should be aware that there are certain things that Jan Hošťálek will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Jan Hošťálek cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
-- modify or copy the materials;
-- use the materials for any commercial purpose or for any public display; 
-- attempt to reverse engineer any software contained on our Website; 
-- remove any copyright or other proprietary notations from the materials; or 
-- transferring the materials to another person or "mirror" the materials on any other server.
+If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
-This will let Companyto terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is electronic format or printed.
+Along the same lines, Jan Hošťálek cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Jan Hošťálek cannot accept responsibility.
 
-## Disclaimer
-All the materials on ourWebsite are provided on an “as is” basis.  You agree that your use of the Website will be at your own risk. We make no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore,Companydoes not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
-## Limitations
-Companyor its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials onour Website, even ifweor an authorised representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
-## Corrections
-There may be information or materials appearing onour Website that contains technical, typographical, or photographic errors.Wewill not promise that any of the materials in this Website are accurate, complete, or current.Wereserve the right to change and update the materials contained on its Website at any time without prior notice.
-## Links
-Company ****has no control over all links provided on this Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement of the site byINSERT COMPANY’S NAME. The use of any linked website is at your own risk.
-## Modification of Terms of Use
-Companymay revise or include supplemental terms in these Terms of Use on its Website from time to time without prior notice. Please ensure that you check the current Terms of Use every time you use the Website. By using this Website, you are agreeing to be bound by the current version of these Terms of Use.
-## Applicable law
-Any claim related toour Website shall be governed by the laws ofINSERT STATE OF RESIDENCE OR INCORPORATIONwithout regards to its conflict of law provisions.
-## Contact
-In case of any questions or requests, please contact us at:
+With respect to Jan Hošťálek’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Jan Hošťálek accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
 
-[PLAi](https://aiplayground.github.io/PLAiSite/)
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Jan Hošťálek does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-[Contact Us](mailto:support@plaiground.cz)
+**Changes to This Terms and Conditions**
 
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
+These terms and conditions are effective as of 2022-12-16
+
+**Contact Us**
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at jan.hostalek@post.cz.
