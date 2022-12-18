@@ -94,19 +94,6 @@ The personal information I collect is stored and/or processed in United States, 
 
 The countries to which I store, process, or transfer your personal information may not have the same data protection laws as the country in which you initially provided the information. If I transfer your personal information to third parties in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.
 
-**Information Collection and Use**
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email, ... . The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third-party services that may collect information used to identify you.
-
-Link to the privacy policy of third-party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-
 **Your Rights and Controlling Your Personal Information**
 
 **Your choice:** By providing personal information to me, you understand I will collect, hold, use, and disclose your personal information in accordance with this privacy policy. You do not have to provide personal information to me, however, if you do not, it may affect your use of my Service or the products and/or services offered on or through it.
