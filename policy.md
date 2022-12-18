@@ -242,4 +242,4 @@ This policy is effective as of 2022-12-16
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at jan.hostalek@post.cz.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at plai.plaiground@gmail.com.
