@@ -81,12 +81,12 @@ courts, tribunals, regulatory authorities, and law enforcement officers, as requ
 third parties to collect and process data
 - an entity that buys, or to which we transfer all or substantially all of my assets and business
 Third parties currently used by my Service include:
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Firebase Firestore](https://firebase.google.com/support/privacy/)
-*   [Google Payments](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice)
+  - [Google Play Services](https://www.google.com/policies/privacy/)
+  - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+  - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+  - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+  - [Firebase Firestore](https://firebase.google.com/support/privacy/)
+  - [Google Payments](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice)
 
 **International Transfers of Personal Information**
 
