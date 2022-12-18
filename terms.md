@@ -33,4 +33,4 @@ These terms and conditions are effective as of 2022-12-16
 
 **Contact Us**
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at jan.hostalek@post.cz.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at plai.plaiground@gmail.com.
