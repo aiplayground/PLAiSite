@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /PLAiSite/app-ads.txt
